@@ -1,5 +1,6 @@
 def using_times
-	times.do
+	7times.do
+	  puts "Wingardium Leviosa"
 end
 
 
